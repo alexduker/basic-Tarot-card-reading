@@ -61,4 +61,3 @@ if __name__ == "__main__":
 
     number_of_cards = int(input("How many cards would you like to draw? "))
     reading.perform_reading(number_of_cards)
-67
